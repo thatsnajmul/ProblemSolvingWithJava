@@ -19,9 +19,6 @@ public class HelloJava {
             
             Scanner input = new Scanner(System.in);
             
-            String h = "Hello";
-            String b = "Java";
-            
             System.out.println("Type Hello:");
             String hello = input.nextLine();
             System.out.println("Type Java:");
@@ -29,7 +26,7 @@ public class HelloJava {
             
             
             
-           
+           System.out.println(hello+java);
             
             
             

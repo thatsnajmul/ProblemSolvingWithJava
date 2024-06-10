@@ -36,6 +36,8 @@ public class ConditionalStatement {
     //31--Accepts three numbers from the user and prints
     //32--Accepts two floating­point numbers and checks whether they are the same up to two decimal places
     
-    
+    public static void main(String[] args) {
+        
+    }
     
 }

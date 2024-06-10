@@ -5,13 +5,8 @@ import java.util.Scanner;
 
 public class PositiveOrNegitiveNumber {
     
- /*   
-1. Write a Java program to get a number from the user and print whether it is positive or negative.
-Test Data
-Input number: 35
-Expected Output :
-Number is positive
-*/
+    //1---Get a number from the user and print whether it is positive or negative numbers
+
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);

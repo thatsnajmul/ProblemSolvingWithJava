@@ -20,7 +20,19 @@ public class DivOfTwoNumbers {
         System.out.println(c);
         
         
+       divOfTwoNum();
+        
     }
+    
+    public static void divOfTwoNum(){
+    
+        
+        
+        
+        
+    }
+    
+   
 
     
     

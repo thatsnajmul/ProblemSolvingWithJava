@@ -20,16 +20,21 @@ public class DivOfTwoNumbers {
         System.out.println(c);
         
         
-       divOfTwoNum();
+        divOfTwoNum(a);
+        
+        
         
     }
     
-    public static void divOfTwoNum(){
+    public static void divOfTwoNum(int a){
     
-        //shitttttttttttttttt
+        //shitttttttttttttttt  
+    }
+    public static boolean divOfTwoNumv(String as){
+    
+        //shitttttttttttttttt  
         
-        
-        
+        return true;
     }
     
    

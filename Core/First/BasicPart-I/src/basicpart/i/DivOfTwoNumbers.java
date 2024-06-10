@@ -26,7 +26,7 @@ public class DivOfTwoNumbers {
     
     public static void divOfTwoNum(){
     
-        
+        //shitttttttttttttttt
         
         
         

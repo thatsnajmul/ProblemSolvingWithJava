@@ -1,6 +1,8 @@
 
 package basicpart.i;
 
+import java.util.Scanner;
+
 
 public class DivOfTwoNumbers {
 
@@ -20,22 +22,30 @@ public class DivOfTwoNumbers {
         System.out.println(c);
         
         
-        divOfTwoNum(a);
+        divOfTwoNum();
         
         
         
     }
     
-    public static void divOfTwoNum(int a){
+    public static void divOfTwoNum(){
     
-        //shitttttttttttttttt  
-    }
-    public static boolean divOfTwoNumv(String as){
-    
-        //shitttttttttttttttt  
+        Scanner input = new Scanner(System.in);
         
-        return true;
+        System.out.println("Enter your number 1:");
+        int a = input.nextInt();
+        
+        System.out.println("Enter your number 2:");
+        int b = input.nextInt();
+        
+        
+        System.out.println(a/b);
+        
+        
+        
+        
     }
+    
     
    
 

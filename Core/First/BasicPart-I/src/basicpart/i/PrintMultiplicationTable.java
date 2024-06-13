@@ -25,5 +25,21 @@ public class PrintMultiplicationTable {
         }
     }
     
+    public static void multipicationUsingLoop() {
+        Scanner input = new Scanner(System.in);
+        
+        System.out.println("Input a a number:");
+        
+        int num = input.nextInt();
+        
+        
+        for(int i =0; i<10; i++){
+            
+        }
+    }
+    
+    
+    
+    
     
 }

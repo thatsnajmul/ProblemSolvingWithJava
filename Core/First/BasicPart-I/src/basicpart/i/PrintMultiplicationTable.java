@@ -21,8 +21,11 @@ public class PrintMultiplicationTable {
         
         
         for(int i =0; i<10; i++){
-            System.out.println(num +"X" + (i+1)+ "=" + (num*(i+1)));
+            System.out.println(num +" x " + (i+1)+ " = " + (num*(i+1)));
         }
+        
+        
+        multipicationUsingLoop();
     }
     
     public static void multipicationUsingLoop() {
@@ -34,6 +37,8 @@ public class PrintMultiplicationTable {
         
         
         for(int i =0; i<10; i++){
+            
+            System.out.println(num + " * " + i + " = " + (num*i));
             
         }
     }

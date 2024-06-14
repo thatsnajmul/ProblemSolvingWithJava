@@ -6,6 +6,10 @@ import java.util.Scanner;
 
 public class HelloJava {
     
+    
+    
+    
+    
     public static void main(String[] args) {
             //1--Print hello and your name on a separate lines
             
@@ -16,15 +20,18 @@ public class HelloJava {
             Scanner input = new Scanner(System.in);
             
             System.out.println("Type Hello:");
-            String hello = input.nextLine();
+            String h = input.nextLine();
             System.out.println("Type Java:");
-            String java = input.nextLine();
+            String j = input.nextLine();
             
             
+            System.out.println(h+j);
+       
             
-           System.out.println(hello+java);
+            
            
-           System.out.println(java+ " is "+"Fine");
+           
+           //System.out.println(java+ " is "+"Fine");
             
             
             

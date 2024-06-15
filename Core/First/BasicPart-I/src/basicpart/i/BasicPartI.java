@@ -11,7 +11,7 @@ public class BasicPartI {
     //5--Display the product of two numbers
     //6--Print the sum, multiply, subtract, divide and remainder of two numbers
     //7--Print multiplication table of a number upto 10
-    //8--Display a specified pattern
+    //8--Display a specified pattern    
     //9--Display and compute specified expressions
     //10--Compute a specified formula
     //11--Find the area and perimeter of a circle

@@ -47,19 +47,19 @@ public class Array {
     //41-- Find smallest and second smallest elements of a given array
     //42-- Segregate all 0s on left side and all 1s on right side of a given array of 0s and 1s
     //43-- Find all combination of four elements of a given array whose sum is equal to a given value
-    //44-- 
-    //45-- 
-    //46-- 
-    //47-- 
-    //48-- 
-    //49-- 
-    //50-- 
-    //51-- 
-    //52-- 
-    //53-- 
-    //54-- 
-    //55-- 
-    //56-- 
+    //44-- Count the number of possible triangles from a given unsorted array of positive integers
+    //45-- Cyclically rotate a given array clockwise by one
+    //46-- Check whether there is a pair with a specified sum of a given sorted and rotated array
+    //47-- Find the rotation count in a given rotated sorted array of integers
+    //48-- Arrange the elements of a given array of integers where all negative integers appear before all the positive integers
+    //49-- Arrange the elements of a given array of integers where all positive integers appear before all the negative integers
+    //50-- Sort an array of positive integers of a given array in the specified pattern
+    //51-- Separate 0s on left side and 1s on right side of an array of 0s and 1s in random order
+    //52-- Separate even and odd numbers of a given array of integers
+    //53-- Replace every element with the next greatest element in a given array of integers
+    //54-- Check if a given array contains a subarray with 0 sum
+    //55-- Print all sub-arrays with 0 sum present in a given array of integers
+    //56-- Sort a given binary array in linear times
     //57-- 
     //58-- 
     //59-- 

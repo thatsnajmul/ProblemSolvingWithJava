@@ -60,28 +60,28 @@ public class Array {
     //54-- Check if a given array contains a subarray with 0 sum
     //55-- Print all sub-arrays with 0 sum present in a given array of integers
     //56-- Sort a given binary array in linear times
-    //57-- 
-    //58-- 
-    //59-- 
-    //60-- 
-    //61-- 
-    //62-- 
-    //63-- 
-    //64-- 
-    //65-- 
-    //66-- 
-    //67-- 
-    //68-- 
-    //69-- 
-    //70-- 
-    //71-- 
-    //72-- 
-    //73-- 
-    //74-- 
-    //75-- 
-    //76-- 
-    //77-- 
-    //78-- 
-    //79-- 
+    //57-- Check if a sub-array is formed by consecutive integers from a given array of integers
+    //58-- Merge elements of A with B by maintaining the sorted order
+    //59-- Find maximum product of two integers in a given array of integers
+    //60-- Shuffle a given array of integers
+    //61-- Rearrange a given array of unique elements such that every second element of the array is greater than its left and right elements
+    //62-- Find the equilibrium indices from a given array of integers
+    //63-- Replace each element of the array with product of every other element in a given array of integers
+    //64-- Find Longest Bitonic Subarray in a given array
+    //65-- Find maximum difference between two elements in a given array of integers such that smaller element appears before larger element
+    //66-- Find contiguous subarray within a given array of integers which has the largest sum
+    //67-- Find subarray which has the largest sum in a given circular array of integers
+    //68-- Create all possible permutations of a given array of distinct integers
+    //69-- Find minimum subarray sum of specified size in a given array of integers
+    //70-- Find the smallest length of a contiguous subarray of which the sum is greater than or equal to specified value
+    //71-- Form the largest number from a given list of non negative integers
+    //72-- Find and print one continuous subarray to sort an entire array
+    //73-- Sort a given array of distinct integers where all its numbers are sorted except two numbers
+    //74-- Find all triplets equal to a given sum in a unsorted array of integers
+    //75-- Largest gap between sorted elements of an array
+    //76-- Consecutive Numbers in an array
+    //77-- Positive and negative values alternate in an array
+    //78-- Negative Dominant
+    //79-- Missing letter from an array of increasing letters
     
 }

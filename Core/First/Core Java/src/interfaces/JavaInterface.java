@@ -1,5 +1,5 @@
 
-package javainterface;
+package interfaces;
 
 
 public class JavaInterface {

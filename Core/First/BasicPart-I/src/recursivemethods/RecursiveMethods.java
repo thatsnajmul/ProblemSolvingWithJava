@@ -19,10 +19,10 @@ public class RecursiveMethods {
         //8-- Count occurrences of a specific element
         //9-- Sum of odd numbers in an array
         //10-- Find the length of a string
-        //11-- 
-        //12-- 
-        //13-- 
-        //14-- 
-        //15-- 
+        //11-- Generate all possible permutations
+        //12-- Find the maximum element
+        //13-- Calculate the product of numbers in an array
+        //14-- Find the sum of digits in an integer
+        //15-- array sorting: Check ascending order
     
 }

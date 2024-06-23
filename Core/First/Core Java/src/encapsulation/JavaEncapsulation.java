@@ -1,13 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package encapsulation;
 
-/**
- *
- * @author Admin
- */
 public class JavaEncapsulation {
+    //1-- 
+    //2-- 
+    //3-- 
+    //4-- 
+    //5-- 
+    //6-- 
+    //7-- 
     
 }

@@ -1,7 +1,8 @@
 
-package sorting;
+package collection.treeset;
 
-public class Sorting {
+public class TreeSet {
+    
     //1-- 
     //2-- 
     //3-- 
@@ -18,8 +19,6 @@ public class Sorting {
     //14-- 
     //15-- 
     //16-- 
-    //17-- 
-    //18-- 
-    //19-- 
 
+    
 }

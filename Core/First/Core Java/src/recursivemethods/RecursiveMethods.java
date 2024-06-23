@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package recursivemethods;
 
-/**
- *
- * @author Admin
- */
+
 public class RecursiveMethods {
         //1-- Calculate the factorial of a number
         //2-- Calculate the sum of numbers from 1 to n

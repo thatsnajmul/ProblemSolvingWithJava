@@ -1,7 +1,9 @@
 
-package sorting;
+package collection.priorityqueue;
 
-public class Sorting {
+
+public class PriorityQueue {
+    
     //1-- 
     //2-- 
     //3-- 
@@ -14,12 +16,5 @@ public class Sorting {
     //10-- 
     //11-- 
     //12-- 
-    //13-- 
-    //14-- 
-    //15-- 
-    //16-- 
-    //17-- 
-    //18-- 
-    //19-- 
 
 }

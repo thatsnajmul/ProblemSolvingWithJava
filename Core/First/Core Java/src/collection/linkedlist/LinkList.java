@@ -1,8 +1,8 @@
 
-package regularexpression;
+package collection.linkedlist;
 
-
-public class RegularExpression {
+public class LinkList {
+    
     //1-- 
     //2-- 
     //3-- 
@@ -29,8 +29,5 @@ public class RegularExpression {
     //24-- 
     //25-- 
     //26-- 
-    //27-- 
-    //28-- 
-    //29-- 
-    //30-- 
+    
 }
